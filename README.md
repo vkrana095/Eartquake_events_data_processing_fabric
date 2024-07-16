@@ -1,12 +1,14 @@
 # Eartquake_events_data_processing_fabric
-##Project Overview
+
+## Project Overview
+
 Learn to build an end to end data engineering and analysis pipelineutilising Microsoft Fabric’s Data Factory, Data Engineering, and Power BI experiences.
 
 Ingesting Earthquake events data from usgs.
 
 Technologies Used: Python, PySpark, Fabric (Data Engineering, Data Factory, Power BI)
 
-Getting Started
+## Getting Started
 To get started with this project, downalod the notebooks in the repository and follow the guidance provided in the YouTube tutorial.
 
 Repository Contents
